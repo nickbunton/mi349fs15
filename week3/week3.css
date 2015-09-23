@@ -1,4 +1,13 @@
 .container{
   margin: 0 auto;
   width: 700px;
+  background: #fff;
+}
+
+body{
+  background: #ccc;
+}
+
+.recipe{
+  padding: 20px 40px;
 }

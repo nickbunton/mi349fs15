@@ -16,6 +16,6 @@ h2{
   font-style: bold;
 }
 
-a:link, a:visited {
-    color: #0000ff
+body{
+  background: #ccc;
 }
