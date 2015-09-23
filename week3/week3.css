@@ -1,13 +1,17 @@
 .container{
   margin: 0 auto;
   width: 700px;
-  background: #fff;
+  background: #fff url(alton-brown-onion-dip.jpg) no-repeat top center;
+  padding-top: 200px;
 }
 
 body{
   background: #ccc;
+  margin: 0;
 }
 
 .recipe{
   padding: 20px 40px;
+  background: #fff;
+
 }
