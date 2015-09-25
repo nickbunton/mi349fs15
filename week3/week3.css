@@ -14,3 +14,23 @@ body{
   padding: 20px 40px;
   background: #fff;
 }
+
+#ital{
+  font-style: italic;
+}
+
+ul{
+    list-style-type: square;
+}
+
+h2{
+  font: red serifs;
+}
+
+h1{
+  border-bottom: 5px solid black;
+}
+
+h3{
+  font-family:cursive;
+}
