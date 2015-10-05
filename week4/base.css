@@ -88,6 +88,15 @@ ul li{
 
 h2{
   clear:both;
+  text-decoration: underline;
+}
+
+ol li:first-child{
+  background: orange;
+}
+
+ol li:nth-child(3){
+  background:orange;
 }
 /* Inline, Inline-Block and Block */
 /* Float example */
