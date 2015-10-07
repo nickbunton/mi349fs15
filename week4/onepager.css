@@ -1,0 +1,21 @@
+.box{
+  float:left;
+  width:300px;
+}
+h2{
+  clear:both;
+  text-decoration: underline;
+}
+
+h1{
+  font-style: italic;
+
+}
+
+p{
+  font-family:sans-serif;
+}
+
+ul{
+    list-style-type: square;
+}
