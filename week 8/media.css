@@ -1,0 +1,40 @@
+.first{
+  float:left;
+  width:25%;
+  background:#e3e3e3;
+  padding:1em;
+}
+.second{
+  float:left;
+  width:25%;
+  background:#00ffff;
+  padding:1em;
+}
+.third{
+  float:left;
+  width:25%;
+  background:red;
+  padding:1em;
+}
+
+@media (max-width:800px){
+  .third{
+    clear:both;
+  }
+}
+@media (max-width:400px){
+  .third{
+    clear:both;
+  }
+  .second{
+    clear:both;
+  }
+}
+
+
+@media
+(-webkit-min-device-pixel-ratio:2),
+(min-resolution:192dpi){
+  /* Retina */
+
+}
