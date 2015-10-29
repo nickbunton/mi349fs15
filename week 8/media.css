@@ -18,16 +18,32 @@
 }
 
 @media (max-width:800px){
-  .third{
-    clear:both;
-  }
-}
-@media (max-width:400px){
-  .third{
-    clear:both;
+  .first{
+    width:40%;
   }
   .second{
+    width: 40%;
+
+  }
+  .third{
     clear:both;
+    width:100%;
+  }
+
+}
+@media (max-width:400px){
+  /*.third{
+    clear:both;
+    width:100%;
+  }*/
+  .second{
+    clear:both;
+    width:100%;
+  }
+  .first{
+    clear:both;
+    width: 100%;
+
   }
 }
 
