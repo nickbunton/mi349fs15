@@ -1,0 +1,9 @@
+Reviews for Wireframing Tools
+
+1. Mockingbird - I like this one a lot. It has a very good UI and I like that you are to click and drag
+                elements into your wireframe. I will probably end up using this one for the project.    Having the widget bar right next to your project make it very easy to decide if you like
+                your new change. If you don't it's very to easy to remove that change, or do something different with it. (Edit: turns out not truly free so I'm not going to use it.. Good tool though)
+
+2.   Framebox - These is also a nice tool with a good UI. It is free so I'll end up using this one.
+                doesn't look as nice as Mockingbird, but the reason I'll use it is it is free.
+                I like how it has a big space to put in your design and can easily add new parts to it without any difficulty.
