@@ -1,0 +1,16 @@
+Here are some of the reasons for changes I made to the original one pager I had:
+
+(1) I only including Twitter sharing because I had to focus on other parts of the site
+that were more important than sharing (since this isn't required)
+
+(2) I scratched the Apps part of the site because I would not be able to think of enough apps
+  to share to the site. Also, I feel like people wouldn't be that interested in that part of the site
+  as the Apple App Store is so good at categorizing up-and-coming apps and the most popular ones
+
+(3) I only included YouTube videos (if possible) because in order to include Soundcloud and Spotify, the user would have to have an account (or Facebook account) and that just makes things more complicated and not ideal for the user. Therefore, I decided to stick with YouTube exclusively. Also, YouTube videos look a lot nicer (as an iframe) then SoundCloud's or Spotify's do.
+
+(4) I made an updated one pager to go off what my site turned out to be, but I also kept my old one pager to have them post submitted.
+
+(5) I also have an updated Photoshop comp (which is 100% better than my first one, because I didn't have time to learn Photoshop at the time that was due)
+
+(6) I added an about page because I wanted to give the vision I would have for the website if it was going to be launched for actual use, and not just to be graded for this final project.
